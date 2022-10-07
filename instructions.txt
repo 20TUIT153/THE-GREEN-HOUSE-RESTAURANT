@@ -1,0 +1,1 @@
+run the html code in vs code and css is also linked with html file
